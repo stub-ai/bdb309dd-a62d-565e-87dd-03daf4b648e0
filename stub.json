@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a page counter so that when a user visits my website it increases by one. The counter should read \"Nuts BUSTED\" with an integer representing the numbered page visit following the text Nuts BUSTED","md5":"570f4242ea3e9f24eb43f908a811023d"}]}
